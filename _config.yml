@@ -138,7 +138,7 @@ comment:
     ClientID:  #必须. GitHub Application Client ID.
     ClientSecret:  #必须. GitHub Application Client Secret.
     enableHotKey: true
-    language: zh-CN
+    language: en
     
   valine: # Valine. https://valine.js.org
     appid:  # your leancloud application appid
